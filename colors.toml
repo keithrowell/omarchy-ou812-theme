@@ -1,0 +1,39 @@
+mode = "dark"
+
+# OU812 (1988). The black of the studio backdrop, the silver of the
+# black-and-white portrait, the teal of the VAN HALEN lettering and the
+# white of the title beneath it.
+
+accent = "#2db7b2"
+selection = "#203536"
+muted = "#4a5556"
+
+background = "#090a0b"
+dark_background = "#060707"
+darker_background = "#030404"
+lighter_background = "#191c1e"
+
+foreground = "#d8d8d8"
+dark_foreground = "#6f7d81"
+light_foreground = "#a1a1a1"
+bright_foreground = "#f2f2f2"
+
+red = "#cf7b84"
+yellow = "#d9c79c"
+orange = "#d3987c"
+green = "#82bd9e"
+cyan = "#2db7b2"
+blue = "#7ba6bb"
+magenta = "#c7a2bb"
+brown = "#8a6f68"
+
+bright_red = "#e3a3aa"
+bright_yellow = "#ebdcbb"
+bright_green = "#a9d6be"
+bright_cyan = "#6fd4cf"
+bright_blue = "#a6c6d6"
+bright_magenta = "#dcc3d4"
+
+# Window borders run teal to white, the two lines of the cover's type.
+hyprland_active_border = "rgba(2db7b2ee) rgba(e8e9e9ee) 45deg"
+hyprland_inactive_border = "rgba(191c1eaa)"
