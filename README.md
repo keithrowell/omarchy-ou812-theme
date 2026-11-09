@@ -20,7 +20,7 @@ omarchy theme install https://github.com/keithrowell/omarchy-ou812-theme
 
 ## OmarkyReader
 
-[OmarkyReader](https://github.com/keithrowell/omarky) reads Markdown in the theme's colours.
+[OmarkyReader](https://keithrowell.github.io/omarky/#reader) reads Markdown in the theme's colours.
 
 ![OmarkyReader in OU812](screenshots/omarky-reader.webp)
 
