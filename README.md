@@ -20,6 +20,12 @@ The theme applies as soon as it installs.
 <img src="screenshots/desktop-3-title.webp" alt="The title lettering" width="49%">
 </p>
 
+## OmarkyReader
+
+[OmarkyReader](https://github.com/keithrowell/omarky) reads Markdown in the theme's colours.
+
+![OmarkyReader in OU812](screenshots/omarky-reader.webp)
+
 ## btop
 
 ![btop in OU812](screenshots/btop.webp)
