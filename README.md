@@ -10,8 +10,6 @@ An [Omarchy](https://omarchy.org/) theme from the cover of Van Halen's *OU812* (
 omarchy theme install https://github.com/keithrowell/omarchy-ou812-theme
 ```
 
-The theme applies as soon as it installs.
-
 ## Backgrounds
 
 <p>
