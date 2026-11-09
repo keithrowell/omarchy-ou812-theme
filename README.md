@@ -14,18 +14,11 @@ The theme applies as soon as it installs.
 
 ## Backgrounds
 
-<table>
-  <tr>
-    <td width="50%"><img src="screenshots/desktop-1-ou812.webp" alt="The full cover"><br><code>1-ou812.jpg</code>: the full cover</td>
-    <td width="50%"><img src="screenshots/desktop-2-the-band.webp" alt="The four faces"><br><code>2-the-band.jpg</code>: the four faces</td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="screenshots/desktop-3-title.webp" alt="The title lettering"><br><code>3-title.jpg</code>: the title lettering alone</td>
-    <td width="50%"></td>
-  </tr>
-</table>
-
-Switch between them with `omarchy theme bg next`.
+<p>
+<img src="screenshots/desktop-1-ou812.webp" alt="The full cover" width="49%">
+<img src="screenshots/desktop-2-the-band.webp" alt="The four faces" width="49%">
+<img src="screenshots/desktop-3-title.webp" alt="The title lettering" width="49%">
+</p>
 
 ## btop
 
